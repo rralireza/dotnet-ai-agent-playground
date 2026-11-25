@@ -1,7 +1,7 @@
 # 🤖 .NET AI Agent Playground
 
 A hands-on learning project for building AI agents with **.NET** and **Semantic Kernel** — focused on **Tool Calling / Function Calling**, where the language model decides on its own when and which function to invoke in order to answer a user's question.
-
+ 
 ## ✨ Features
 
 - Connects to language models via [Groq](https://groq.com) (free and fast, OpenAI-compatible API)
